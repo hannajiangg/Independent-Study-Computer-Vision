@@ -22,7 +22,6 @@ The repository includes the following folders:
 
 - Python 3.x
 - Jupyter Notebook
-- Required libraries (listed in `requirements.txt`)
 
 
 ## Getting Started
