@@ -18,6 +18,13 @@ The repository includes the following folders:
 - `fastrcnn`
 - `ssd`
 
+## Prerequisites
+
+- Python 3.x
+- Jupyter Notebook
+- Required libraries (listed in `requirements.txt`)
+
+
 ## Getting Started
 
 To run the notebooks:
@@ -25,3 +32,9 @@ To run the notebooks:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/hannajiangg/Independent-Study-Computer-Vision
+
+
+## Usage
+
+Each notebook is self-contained and includes instructions for loading datasets and executing the cells. Follow the comments within each notebook for guidance on usage.
+
